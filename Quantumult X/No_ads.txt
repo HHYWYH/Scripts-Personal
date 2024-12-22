@@ -345,6 +345,10 @@ https?:\/\/(ipv4|interface\d?)\.music\.163\.com\/e?api\/user\/follow\/users\/mix
 ^https?:\/\/appconf\.mail\.163\.com\/mmad\/ url reject-200
 ^https?:\/\/client\.mail\.163\.com\/apptrack\/confinfo\/(searchMultiAds|showAds) url reject
 
+# > Weico(微博客户端)
+# hostname = overseas.weico.cc
+^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads url reject-200
+
 # >>>>>>>>>>>>>>> ✅ X ✅ <<<<<<<<<<<<<<
 # > 闲鱼
 # hostname = acs.m.goofish.com, g-acs.m.goofish.com, dinamicx.alibabausercontent.com
