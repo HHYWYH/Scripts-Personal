@@ -5,7 +5,14 @@
 #!date=2024-08-03 18:30:00
 
 # 去重后的hostname，将对以下域名进行MITM（MAN-IN-THE-MIDDLE：中间人攻击）
-hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-app-m.i4.cn, r6.mo.baidu.com, res.mi.baidu.com, mime.baidu.com, mbd.baidu.com, pan.baidu.com, ndstatic.cdn.bcebos.com, staticsns.cdn.bcebos.com, issuecdn.baidupcs.com, update.pan.baidu.com, fc-video.cdn.bcebos.com, rp.hpplay.cn, appwk.baidu.com, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.biliapi.net, app-gw.csdn.net, gw.csdn.net, cn-acs.m.cainiao.com, amdc.m.taobao.com, app-v1.ecoliving168.com, elemecdn.com, fuss10.elemecdn.com, cube.elemecdn.com, www1.elecfans.com, nr-op.elemecdn.com, m*.amap.com, optimus-ads.amap.com, home.umetrip.com, discardrp.umetrip.com, startup.umetrip.com, service.haiersmarthomes.com, api.m.jd.com, dns.jd.com, api.coolapk.com, img.meituan.net, s3plus.meituan.net, flowplus.meituan.net, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com, m.qianbao.qq.com, homepage-api.smzdm.com, haojia-api.smzdm.com, app-api.smzdm.com, user-api.smzdm.com, article-api.smzdm.com, qianbao.smzdm.com, acs.m.taobao.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com, btrace.qq.com, api2.helper.qq.com, *.beacon.qq.com, mi.gdt.qq.com, lives.l.qq.com, imgcache.qq.com, mtteve.beacon.qq.com, vv.video.qq.com, ssl.kohsocialapp.qq.com, qt.qq.com, 3gimg.qq.com, y.gtimg.cn, splashqqlive.gtimg.com, qzonestyle.gtimg.cn, discuz.gtimg.cn, bla.gtimg.com, mmgr.gtimg.com, bk.bingo.qq.com, mp.weixin.qq.com, weixin110.qq.com, security.wechat.com, interface.music.163.com, interface?.music.163.com, ipv4.music.163.com, appconf.mail.163.com, client.mail.163.com, analytics.163.com, acs.m.goofish.com, g-acs.m.goofish.com, dinamicx.alibabausercontent.com, edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, m.client.10010.com, m1.ad.10010.com, res.mall.10010.cn, cloud.189.cn, zt-app.go189.cn, xyz.cnki.net, api.zhihu.com, www.zhihu.com, appcloud2.zhihu.com, m-cloud.zhihu.com, zhuanlan.zhihu.com, link.zhihu.com
+hostname = acs.m.goofish.com, ad.12306.cn, amdc.m.taobao.com, analytics.163.com, api-access.pangolin-sdk-toutiao.com, api-access.pangolin-sdk-toutiao?.com, api.alipan.com, api.bilibili.com, api.coolapk.com, api.live.bilibili.com, api.m.jd.com, api.pinduoduo.com, api.zhihu.com, api.yangkeduo.com, api2.helper.qq.com, app-api.smzdm.com, app.bilibili.com, app-gw.csdn.net, appconf.mail.163.com, appcloud2.zhihu.com, appwk.baidu.com, article-api.smzdm.com, bla.gtimg.com, bk.bingo.qq.com, capi.lkcoffee.com, ci.xiaohongshu.com, client.mail.163.com, cloud.189.cn, cn-acs.m.cainiao.com, cube.elemecdn.com, dinamicx.alibabausercontent.com, discardrp.umetrip.com, discuz.gtimg.cn, dns.jd.com, ecapi.lkcoffee.com, edith.xiaohongshu.com, elemecdn.com, enjoy.cdn-static.abchina.com, ether-pack.pangolin-sdk-toutiao.com, fc-video.cdn.bcebos.com, firefly.abchina.com.cn, flowplus.meituan.net, fuss10.elemecdn.com,  
+gab.122.gov.cn, g-acs.m.goofish.com, grpc.biliapi.net, guide-acs.m.taobao.com, gw.csdn.net, haojia-api.smzdm.com, home.mi.com, home.umetrip.com, homepage-api.smzdm.com, img.meituan.net, img0*.luckincoffeecdn.com, imgcache.qq.com, interface.music.163.com, interface?.music.163.com, ipv4.music.163.com, issuecdn.baidupcs.com, lf-cdn-tos.bytescm.com, learn.chaoxing.com, list-app-m.i4.cn, lives.l.qq.com, m.client.10010.com, m.qianbao.qq.com, m.lkcoffee.com, m1.ad.10010.com, m5.amap.com, mbd.baidu.com, member.alipan.com, midc.cdn-static.abchina.com.cn, mi.gdt.qq.com, mime.baidu.com, mmgr.gtimg.com, mobile.yangkeduo.com, m-cloud.zhihu.com, mtteve.beacon.qq.com, ndstatic.cdn.bcebos.com, nr-op.elemecdn.com, optimus-ads.amap.com, overseas.weico.cc,  
+pan.baidu.com, poplayer.template.alibaba.com, qianbao.smzdm.com, qzonestyle.gtimg.cn, qt.qq.com, r6.mo.baidu.com, rec.xiaohongshu.com, res.mall.10010.cn, res.mi.baidu.com, rp.hpplay.cn, s3plus.meituan.net, security.wechat.com, service.haiersmarthomes.com, sf*-fe-tos.pglstatp-toutiao.com, splashqqlive.gtimg.com, startup.umetrip.com, staticsns.cdn.bcebos.com, testflight.apple.com, update.pan.baidu.com, user-api.smzdm.com, vv.video.qq.com, webcast-open.douyin.com, weixin110.qq.com, wmapi.meituan.com, www.xiaohongshu.com, www.zhihu.com, www1.elecfans.com, xyz.cnki.net, y.gtimg.cn, zhuanlan.zhihu.com, zt-app.go189.cn
+
+# >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
+# > 闲鱼 匹配请求头需要在同一个URL之前匹配到
+# 拦截广告下发
+^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch %E9%97%B2%E9%B1%BC* url-and-header reject
 
 # >>>>>>>>>>>>>>> ✅ 0 ✅ <<<<<<<<<<<<<<
 
@@ -157,10 +164,12 @@ hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-
 ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.com\.cainiao\.cncreditmarket\.hit\.getactivityhit\.cn url reject-dict
 ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.com\.cainiao\.longquan\.place\.getpageresourcecontent\.cn url reject-dict
 
+# > 超星学习通
+# hostname = learn.chaoxing.com
+^https?:\/\/learn\.chaoxing\.com\/apis\/service\/appConfig\? url reject
+
 # >>>>>>>>>>>>>>> ✅ D ✅ <<<<<<<<<<<<<<
-# > 电影猎手
-# hostname = app-v1.ecoliving168.com
-^https:\/\/app-v1\.ecoliving168\.com\/api\/v1\/movie\/index_recommend\? url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/dianyinglieshou.js
+
 
 # >>>>>>>>>>>>>>> ✅ E ✅ <<<<<<<<<<<<<<
 # > 饿了么
@@ -185,7 +194,7 @@ hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-
 # hostname = m*.amap.com, optimus-ads.amap.com
 ^https?:\/\/m5\.amap\.com\/ws\/shield\/dsp\/app\/startup\/init\? url reject-dict
 ^https?:\/\/m5\.amap\.com\/ws\/valueadded\/ url reject
-^https?:\/\/optimus-ads\.amap\.com\/uploadimg\/ url reject
+^https?://optimus-ads.amap.com/uploadimg/[a-zA-Z0-9]+.gif url reject-200
 
 # >>>>>>>>>>>>>>> ✅ H ✅ <<<<<<<<<<<<<<
 # > 航旅纵横
@@ -253,13 +262,30 @@ hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-
 # hostname = m.qianbao.qq.com
 ^https?:\/\/m\.qianbao\.qq\.com\/pages\/walletHome\?invisible url reject
 
-# >>>>>>>>>>>>>>> ✅ R ✅ <<<<<<<<<<<<<<
+# > 汽水音乐
+# hostname = webcast-open.douyin.com, ether-pack.pangolin-sdk-toutiao.com, api-access.pangolin-sdk-toutiao?.com, sf*-fe-tos.pglstatp-toutiao.com, lf-cdn-tos.bytescm.com
+# 感谢【可莉】分享
+# 发现页面 - 正在直播
+^https:\/\/webcast-open\.douyin\.com\/webcast\/openapi\/feed\/\? url reject-dict
+# 字节跳动广告
+^https:\/\/ether-pack\.pangolin-sdk-toutiao\.com\/union\/endcard\/ url reject
+^https:\/\/api-access\.pangolin-sdk-toutiao\d?\.com\/api\/ad\/ url reject
+^https:\/\/sf\d+-fe-tos\.pglstatp-toutiao\.com\/obj\/ad-pattern\/ url reject
+^https:\/\/lf-cdn-tos\.bytescm\.com\/obj\/static\/ad\/ url reject
 
+# >>>>>>>>>>>>>>> ✅ R ✅ <<<<<<<<<<<<<<
+# > 瑞幸咖啡
+# hostname = capi.lkcoffee.com, ecapi.lkcoffee.com, m.lkcoffee.com, img0*.luckincoffeecdn.com
+^https?:\/\/capi\.lkcoffee\.com\/resource\/m\/sys\/app\/adposNew url response-body \{.+\} response-body {"status":"SUCCESS"}
+^https?:\/\/(ec|c)api\.lkcoffee\.com\/resource\/m\/eorder\/product\/popAppTagProductList url response-body \{.+\} response-body {"status":"SUCCESS"}
+^https?:\/\/m\.lkcoffee\.com\/ecapi\/resource\/m\/member\/exchange\/page url response-body \{.+\} response-body {"status":"SUCCESS"}
+^https?:\/\/m\.lkcoffee\.com\/capi\/resource\/m\/growUp\/main url response-body "popTitle":".+?" response-body "popTitle":""
+^https?:\/\/img0[1-9]{1}\.luckincoffeecdn\.com\/group\d/M00/[A-Z0-9]{2}/[A-Z0-9]{2}/[a-zA-Z0-9]{29}\.(jpg|jpeg)_\.webp url reject-200
 
 # >>>>>>>>>>>>>>> ✅ S ✅ <<<<<<<<<<<<<<
 # > 什么值得买
 # hostname = homepage-api.smzdm.com, haojia-api.smzdm.com, app-api.smzdm.com, user-api.smzdm.com, article-api.smzdm.com, qianbao.smzdm.com
-#^https?:\/\/app-api\.smzdm\.com\/util\/update url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/smzdm/smzdm_ads.js
+^https:\/\/haojia-api\.smzdm\.com\/ranking_list\/articles\? url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/smzdm/smzdm_ads.js
 ^https?:\/\/user-api\.smzdm\.com\/vip\/creator_user_center url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/smzdm/smzdm_ads.js
 # 感谢【怎么肥事】分享
 ^https?:\/\/app-api\.smzdm\.com\/util\/loading url script-response-body https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Smzdm.js
@@ -272,6 +298,18 @@ hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-
 ^https?:\/\/qianbao\.smzdm\.com\/v\d\/app\/home url script-response-body https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Smzdm.js
 
 # >>>>>>>>>>>>>>> ✅ T ✅ <<<<<<<<<<<<<<
+# > TestFlight
+# hostname = testflight.apple.com
+# TestFlight 国区下载修正
+^https:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*\/builds\/\d*\/install$ url request-body "storefrontId"\x20:\x20.*, request-body "storefrontId":"143441-19,29",
+# TF账户管理 App更新时提示"APP不可用"问题，解决部分TF兑换错了区域的问题，例如Loon兑换到了国区
+# ^https?:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
+
+# > 淘票票
+# hostname = acs.m.taobao.com
+# 开屏广告
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.(queryadvertise|queryloadingbanner)\/ url reject
+
 # > 淘宝
 # hostname = acs.m.taobao.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv url reject-dict
@@ -287,7 +325,7 @@ hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-
 ^https?:\/\/poplayer\.template\.alibaba\.com\/\w+\.json url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/myBlockAds.js
 
 # > 腾讯广告
-# hostname = btrace.qq.com, api2.helper.qq.com, *.beacon.qq.com, mi.gdt.qq.com, lives.l.qq.com, imgcache.qq.com, mtteve.beacon.qq.com, vv.video.qq.com, ssl.kohsocialapp.qq.com, qt.qq.com, 3gimg.qq.com, y.gtimg.cn, splashqqlive.gtimg.com, qzonestyle.gtimg.cn, discuz.gtimg.cn, bla.gtimg.com, mmgr.gtimg.com, bk.bingo.qq.com
+# hostname = btrace.qq.com, api2.helper.qq.com, *.beacon.qq.com, mi.gdt.qq.com, lives.l.qq.com, imgcache.qq.com, mtteve.beacon.qq.com, vv.video.qq.com, qt.qq.com, 3gimg.qq.com, y.gtimg.cn, splashqqlive.gtimg.com, qzonestyle.gtimg.cn, discuz.gtimg.cn, bla.gtimg.com, mmgr.gtimg.com, bk.bingo.qq.com
 ^https?:\/\/btrace\.qq\.com url reject-200
 ^https?:\/\/api2\.helper\.qq\.com\/game\/buttons url reject-img
 ^https?:\/\/\w+\.beacon\.qq\.com url reject
@@ -296,7 +334,6 @@ hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-
 ^https?:\/\/imgcache\.qq\.com\/qqlive\/ url reject-img
 ^https?:\/\/mtteve\.beacon\.qq\.com\/analytics url reject-img
 ^https?:\/\/vv\.video\.qq\.com\/getvmind\? url reject-200
-^https?:\/\/ssl\.kohsocialapp\.qq\.com:10001\/game\/buttons url reject-200
 ^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info url reject-200
 ^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/ url reject-200
 ^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/splash\/ url reject-200
@@ -316,6 +353,10 @@ hostname = gab.122.gov.cn, ad.12306.cn, api.alipan.com, member.alipan.com, list-
 
 
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
+# > Weico(微博客户端)
+# hostname = overseas.weico.cc
+^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads url reject-200
+
 # > 微信
 # hostname = mp.weixin.qq.com, weixin110.qq.com, security.wechat.com
 # 公众号文章下方广告
@@ -350,54 +391,59 @@ https?:\/\/(ipv4|interface\d?)\.music\.163\.com\/e?api\/user\/follow\/users\/mix
 ^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads url reject-200
 
 # >>>>>>>>>>>>>>> ✅ X ✅ <<<<<<<<<<<<<<
+# > 米家
+# hostname = home.mi.com
+^https?:\/\/home\.mi\.com\/cgi-op\/api\/v1\/recommendation\/(banner|carousel\/banners|myTab|openingBanner) url reject-dict
+
 # > 闲鱼
 # hostname = acs.m.goofish.com, g-acs.m.goofish.com, dinamicx.alibabausercontent.com
 # 拦截广告下发
 ^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch %E9%97%B2%E9%B1%BC* url-and-header reject
+# 我的页面横幅
+^https:\/\/dinamicx\.alibabausercontent\.com\/pub\/fish_home_top_kingkong_new\/ url reject
+# 搜索页面净化
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlemtopsearch\.item\.search\.activate\/ url reject-dict
+^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlemtopsearch\.search\.discover\/ url reject-dict
 # 首页顶部标签
 ^https:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idle\.home\.whale\.modulet\/ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xianyu/xianyu_ads.js
 # 搜索栏填充词
 ^https:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlemtopsearch\.search\.shade\/ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xianyu/xianyu_ads.js
 # 首页闲鱼币入口、底部发布球
 ^https:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idle\.user\.strategy\.list\/ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xianyu/xianyu_ads.js
-# 我的页面横幅
-^https:\/\/dinamicx\.alibabausercontent\.com\/pub\/fish_home_top_kingkong_new\/ url reject
 # 商品信息流广告
 ^https:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlehome\.home\.nextfresh\/ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xianyu/xianyu_ads.js
 # 定位地区页面的信息流广告
 ^https:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idle\.local\.home\/ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xianyu/xianyu_ads.js
-# 搜索页面净化
-^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlemtopsearch\.item\.search\.activate\/ url reject-dict
-^https:\/\/acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlemtopsearch\.search\.discover\/ url reject-dict
 
 # > 小红书
-# hostname = edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com
+# hostname = edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, rec.xiaohongshu.com
 # 惊喜弹窗
 ^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/surprisebox\/(get_style|open|submit_action) url reject-dict
 ^https?:\/\/www\.xiaohongshu\.com\/api\/marketing\/box\/trigger\? url reject-dict
-# 详情页,小部件
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/note\/widgets url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+# 信息流
+^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/note\/guide\? url reject-dict
+^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/guide\/user_banner url reject-dict
+^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/(v\d\/ads\/resource|v\d\/hey\/\w+\/hey_gallery) url reject-dict
 # 搜索页
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/search\/(banner|hot)_list url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/search\/(banner_list|hot_list) url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
 ^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/search\/(hint|trending)\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
 ^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/search\/notes\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
 # 开屏广告
 ^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/config\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config$ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+# 详情页,小部件
+^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/note\/widgets url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+#^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/user\/followings\/followfeed url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+#^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/recommend\/user\/follow_recommend\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
 # 图片水印,视频水印
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/(v\d\/note\/feed|v3\/note\/videofeed)\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/note\/(imagefeed|live_photo\/save) url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
-# 信息流
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/note\/guide\? url reject-dict
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/followfeed\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/homefeed\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
-^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/(v\d\/ads\/resource|v2\/hey\/\w+\/hey_gallery) url reject-dict
+^https?:\/\/(edith|rec|www)\.xiaohongshu\.com\/api\/sns\/v\d\/note\/(imagefeed|live_photo\/save) url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+^https?:\/\/(edith|rec|www)\.xiaohongshu\.com\/api\/sns\/v\d\/(followfeed|homefeed)\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+^https?:\/\/(edith|rec|www)\.xiaohongshu\.com\/api\/sns\/(v2\/note\/feed|v3\/note\/videofeed)\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
+^https?:\/\/(edith|rec|www)\.xiaohongshu\.com\/api\/sns\/(v4\/note\/videofeed|v10\/note\/video\/save)\? url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js
 # 评论区用户id置空 (实验功能可能无效)
 ^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/note\/comment\/list url response-body red_id response-body fmz200
 # 评论区图片水印 (实验功能可能无效)
 ^https?:\/\/ci\.xiaohongshu\.com\/system_config\/watermark url reject-img
-# 笔记创作推荐
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d\/guide\/user_banner url reject-dict
 
 # >>>>>>>>>>>>>>> ✅ Y ✅ <<<<<<<<<<<<<<
 
